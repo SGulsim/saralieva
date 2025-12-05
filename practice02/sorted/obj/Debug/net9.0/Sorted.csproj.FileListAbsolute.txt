@@ -1,0 +1,14 @@
+C:\Users\Gulsim\Saralieva\practice02\sorted\bin\Debug\net9.0\Sorted.exe
+C:\Users\Gulsim\Saralieva\practice02\sorted\bin\Debug\net9.0\Sorted.deps.json
+C:\Users\Gulsim\Saralieva\practice02\sorted\bin\Debug\net9.0\Sorted.runtimeconfig.json
+C:\Users\Gulsim\Saralieva\practice02\sorted\bin\Debug\net9.0\Sorted.dll
+C:\Users\Gulsim\Saralieva\practice02\sorted\bin\Debug\net9.0\Sorted.pdb
+C:\Users\Gulsim\Saralieva\practice02\sorted\obj\Debug\net9.0\Sorted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gulsim\Saralieva\practice02\sorted\obj\Debug\net9.0\Sorted.AssemblyInfoInputs.cache
+C:\Users\Gulsim\Saralieva\practice02\sorted\obj\Debug\net9.0\Sorted.AssemblyInfo.cs
+C:\Users\Gulsim\Saralieva\practice02\sorted\obj\Debug\net9.0\Sorted.csproj.CoreCompileInputs.cache
+C:\Users\Gulsim\Saralieva\practice02\sorted\obj\Debug\net9.0\Sorted.dll
+C:\Users\Gulsim\Saralieva\practice02\sorted\obj\Debug\net9.0\refint\Sorted.dll
+C:\Users\Gulsim\Saralieva\practice02\sorted\obj\Debug\net9.0\Sorted.pdb
+C:\Users\Gulsim\Saralieva\practice02\sorted\obj\Debug\net9.0\Sorted.genruntimeconfig.cache
+C:\Users\Gulsim\Saralieva\practice02\sorted\obj\Debug\net9.0\ref\Sorted.dll

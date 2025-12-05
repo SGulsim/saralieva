@@ -1,0 +1,14 @@
+C:\Users\Gulsim\Saralieva\bin\Debug\net9.0\Saralieva.exe
+C:\Users\Gulsim\Saralieva\bin\Debug\net9.0\Saralieva.deps.json
+C:\Users\Gulsim\Saralieva\bin\Debug\net9.0\Saralieva.runtimeconfig.json
+C:\Users\Gulsim\Saralieva\bin\Debug\net9.0\Saralieva.dll
+C:\Users\Gulsim\Saralieva\bin\Debug\net9.0\Saralieva.pdb
+C:\Users\Gulsim\Saralieva\obj\Debug\net9.0\Saralieva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gulsim\Saralieva\obj\Debug\net9.0\Saralieva.AssemblyInfoInputs.cache
+C:\Users\Gulsim\Saralieva\obj\Debug\net9.0\Saralieva.AssemblyInfo.cs
+C:\Users\Gulsim\Saralieva\obj\Debug\net9.0\Saralieva.csproj.CoreCompileInputs.cache
+C:\Users\Gulsim\Saralieva\obj\Debug\net9.0\Saralieva.dll
+C:\Users\Gulsim\Saralieva\obj\Debug\net9.0\refint\Saralieva.dll
+C:\Users\Gulsim\Saralieva\obj\Debug\net9.0\Saralieva.pdb
+C:\Users\Gulsim\Saralieva\obj\Debug\net9.0\Saralieva.genruntimeconfig.cache
+C:\Users\Gulsim\Saralieva\obj\Debug\net9.0\ref\Saralieva.dll
